@@ -1,0 +1,144 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "A3A87009-1731-4EC6-B6CF-3E272C9F0463",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "e3f3c630-f44b-11ea-91f9-3b2ffca8e1f2",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "2D931FE4-C25C-4306-B105-D12DDA59705D",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6A1C55CE-6BB7-4684-81B9-C3154F26F12F",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Semibold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProRounded-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "72D6D667-34E2-4A4B-8811-FB1D6DE695C5",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Ultralight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Ultralight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9837FBA9-213D-49D8-AB2E-5FC1F725BF81",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B295A228-51A3-4A95-9561-1E87A9CE025A",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B3121D3B-C42E-448F-A36D-0860DEABA913",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C2EB5391-0FAC-44A4-8B72-E1E8653B15C2",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F3F1CDC1-6185-4B3F-91C6-4117D4A67E15",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProRounded-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FEA0D44F-DF1E-42CE-9687-E0DC89FABB4C",
+      "fontFamilyName": "SF Pro Rounded",
+      "fontFileName": "SF-Pro-Rounded-Heavy.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProRounded-Heavy"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
+  },
+  "pages": [
+    "Design"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
+}
