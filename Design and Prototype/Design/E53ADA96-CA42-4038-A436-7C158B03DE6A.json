@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "e3f39f20-f44b-11ea-91f9-3b2ffca8e1f2",
+  "do_objectID": "E53ADA96-CA42-4038-A436-7C158B03DE6A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,49 +22,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1024,
+    "width": 1440,
+    "x": 1728,
+    "y": 1216
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "artboard",
-      "id": "35A5208B-BB1C-48D2-A3BA-34EDD659DADC"
-    },
-    {
-      "class": "artboard",
-      "id": "EF56F8B6-00B7-4B71-B5BE-4EA205A7FBD9"
-    },
-    {
-      "class": "artboard",
-      "id": "E53ADA96-CA42-4038-A436-7C158B03DE6A"
-    }
   ],
-  "name": "Design",
+  "name": "Goals, Motivations, & Pain Points",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -92,7 +98,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EAC33931-729A-43B4-85C4-C5D9FA5DB7BF",
+    "do_objectID": "54119D39-8C8E-46F5-B800-785BAD05A574",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,14 +110,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

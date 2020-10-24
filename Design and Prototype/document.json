@@ -23,7 +23,50 @@
   },
   "colorSpace": 0,
   "do_objectID": "e3f3c630-f44b-11ea-91f9-3b2ffca8e1f2",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "00F7F263-E088-4386-A279-249CABE6C8F4",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Semibold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1C6A86FE-709B-406F-B40E-E692712ED198",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2274160F-6959-44EE-B102-FB726660B209",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "279D2273-2EB9-4C5C-80B7-433F51C61F3C",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Thin"
+      ]
+    },
     {
       "_class": "fontReference",
       "do_objectID": "2D931FE4-C25C-4306-B105-D12DDA59705D",
@@ -32,6 +75,56 @@
       "options": 0,
       "postscriptNames": [
         "SFProRounded-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "379BC1DB-C238-4E2E-AE8A-ADA35950CF7A",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "39F7F696-275A-4532-AE78-C01DCC7D026B",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3D6D8A79-4603-44A4-8118-594024F9A5D2",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-HeavyItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-HeavyItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5C348FA5-6516-440D-A41C-46CC51E172E5",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "608E3A0F-6D29-4807-A665-4D69559A098D",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Bold"
       ]
     },
     {
@@ -56,12 +149,72 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "77037717-2A75-438F-B2F9-190F4850DCC2",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-RegularItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-RegularItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8E2C1F67-71B2-44DA-B1B7-1E0A1901275C",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Regular.otf",
+      "options": 6,
+      "postscriptNames": [
+        "SFProDisplay-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "9837FBA9-213D-49D8-AB2E-5FC1F725BF81",
       "fontFamilyName": "SF Pro Rounded",
       "fontFileName": "SF-Pro-Rounded-Thin.otf",
       "options": 0,
       "postscriptNames": [
         "SFProRounded-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9E4B7ADD-E2F6-48E5-A2B0-8BBB42B78925",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-UltralightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-UltralightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A0B06260-70AD-4827-9A83-2C2AC7B1EDB7",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Ultralight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Ultralight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A7281DF9-FA43-4A47-A1C4-E7F927B77B3E",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B0A37EA9-2A45-409C-AF0E-EAFE6D8E37F9",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-BlackItalic"
       ]
     },
     {
@@ -86,12 +239,42 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "C28B8740-00FF-4A07-A028-8E5662C216A2",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-Heavy.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "C2EB5391-0FAC-44A4-8B72-E1E8653B15C2",
       "fontFamilyName": "SF Pro Rounded",
       "fontFileName": "SF-Pro-Rounded-Medium.otf",
       "options": 0,
       "postscriptNames": [
         "SFProRounded-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EF116471-635E-4AAD-9E2A-68EB4789EE9B",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-SemiboldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-SemiboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EF7F93E3-641F-455F-B04D-B721CEACCF70",
+      "fontFamilyName": "SF Pro Display",
+      "fontFileName": "SF-Pro-Display-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProDisplay-LightItalic"
       ]
     },
     {
@@ -122,22 +305,198 @@
   "foreignSymbols": [
   ],
   "foreignTextStyles": [
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "81639341-3F87-456F-8594-D5B17527EEEA",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "EC18E611-7F65-4B3D-AF2A-70C93EBAC3C1",
+        "name": "LargeTitle/1 Default/2 Dark/1 Label Color/1 Left Aligned",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "829475D0-9B96-4FF7-BC7A-292FFFF3C7B2",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "SFProDisplay-Regular",
+                  "size": 34
+                }
+              },
+              "kerning": 0.3740000128746033,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 41,
+                "minimumLineHeight": 41
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "B5655DE4-D2D6-42B3-B6F0-EC403D5E6C3F",
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "do_objectID": "635F9AC9-5D46-40A4-B9C5-7BE574E63483",
+      "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "B478B24B-696D-4E43-9B70-93334C3357DD",
+        "name": "Title1/1 Default/2 Dark/1 Label Color/1 Left Aligned",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "7639144E-4E09-442A-9D90-EC2F6E0204CB",
+          "endMarkerType": 0,
+          "fills": [
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "SFProDisplay-Regular",
+                  "size": 28
+                }
+              },
+              "kerning": 0.36,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 34,
+                "minimumLineHeight": 34
+              }
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "E3EDD404-CA80-4FE7-A562-3ADB93409288",
+      "sourceLibraryName": "Apple iOS UI",
+      "symbolPrivate": false
+    }
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "CCCFE31E-F650-11EA-91F9-302DFC89989F",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68.2",
-    "build": 102594,
-    "version": 131
+    "appVersion": "69.1",
+    "build": 107496,
+    "version": 134
   },
   "pages": [
     "Design"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "DAC3E71E-F650-11EA-91F9-302DFC899693",
     "objects": [
     ]
   }

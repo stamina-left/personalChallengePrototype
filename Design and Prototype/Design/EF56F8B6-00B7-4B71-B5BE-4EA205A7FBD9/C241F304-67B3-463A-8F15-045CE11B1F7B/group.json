@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "e3f39f20-f44b-11ea-91f9-3b2ffca8e1f2",
+  "do_objectID": "C241F304-67B3-463A-8F15-045CE11B1F7B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,44 +15,41 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 704,
+    "width": 950,
+    "x": 100,
+    "y": 160
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "artboard",
-      "id": "35A5208B-BB1C-48D2-A3BA-34EDD659DADC"
+      "class": "text",
+      "id": "3ED3070F-3F53-4FBD-9659-DEC793F3D6A8"
     },
     {
-      "class": "artboard",
-      "id": "EF56F8B6-00B7-4B71-B5BE-4EA205A7FBD9"
+      "class": "shapePath",
+      "id": "3ECBD1DC-5BE9-4387-B24F-FE05658B22EA"
     },
     {
-      "class": "artboard",
-      "id": "E53ADA96-CA42-4038-A436-7C158B03DE6A"
+      "class": "text",
+      "id": "D25565BE-989C-49BD-9500-017C05A2A566"
+    },
+    {
+      "class": "rectangle",
+      "id": "BC976D5C-1EAD-4D4A-9265-F05A835249AB"
     }
   ],
-  "name": "Design",
+  "name": "Description",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EAC33931-729A-43B4-85C4-C5D9FA5DB7BF",
+    "do_objectID": "4CD0AD3C-3C01-4A8E-8E7A-2F799C071811",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,16 +100,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }
