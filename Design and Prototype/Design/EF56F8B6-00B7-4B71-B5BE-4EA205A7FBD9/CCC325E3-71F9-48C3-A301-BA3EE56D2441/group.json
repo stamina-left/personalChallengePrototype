@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 0,
-    "green": 0,
-    "red": 0
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E53ADA96-CA42-4038-A436-7C158B03DE6A",
+  "do_objectID": "CCC325E3-71F9-48C3-A301-BA3EE56D2441",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,48 +15,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
-    "x": 1728,
-    "y": 1216
+    "height": 838,
+    "width": 540,
+    "x": 900,
+    "y": 93
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "text",
+      "id": "D8C2A0AB-C49B-42D1-ACC2-D4408FCA6B93"
+    },
+    {
+      "class": "text",
+      "id": "5FE8FD51-9F12-4FD8-A83D-0CDE57717247"
+    },
+    {
+      "class": "text",
+      "id": "52CC5DDD-E7E4-47AC-8F95-B3716BA72BF7"
+    }
   ],
-  "name": "Goals, Motivations, & Pain Points",
+  "name": "Goal, Motivation, & Pain Points",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD",
-    "offersLandscapeVariant": 0,
-    "width": 1440
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -98,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "54119D39-8C8E-46F5-B800-785BAD05A574",
+    "do_objectID": "D72FBD7C-9476-4F24-8A40-695EB3FE60B0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -109,11 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

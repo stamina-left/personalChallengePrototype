@@ -27,18 +27,48 @@
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 41,
             "minimumLineHeight": 41
+          },
+          "underlineStyle": 1
+        },
+        "length": 11,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProDisplay-Regular",
+              "size": 34
+            }
+          },
+          "kerning": 0.3740000128746033,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 41,
+            "minimumLineHeight": 41
           }
         },
-        "length": 74,
-        "location": 0
+        "length": 125,
+        "location": 11
       }
     ],
-    "string": "Name: John Smith\nAge: 22\nJob: Employee\nHobbies: Playing games, sneakerhead"
+    "string": "Pain points:\n\n- Afraid of making something inedible.\n- If things don’t work, he blames himself.\n- Too often move further from the stove."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D25565BE-989C-49BD-9500-017C05A2A566",
+  "do_objectID": "D8C2A0AB-C49B-42D1-ACC2-D4408FCA6B93",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +82,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 205,
-    "width": 385,
-    "x": 325,
-    "y": 78
+    "height": 328,
+    "width": 540,
+    "x": 0,
+    "y": 510
   },
-  "glyphBounds": "{{0, 8}, {355, 190}}",
+  "glyphBounds": "{{0, 9}, {477, 312}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,9 +96,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Identity",
+  "name": "Pain points",
   "nameIsFixed": true,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "EC18E611-7F65-4B3D-AF2A-70C93EBAC3C1",
@@ -107,7 +137,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8B8DACDE-AFBB-4C42-9D27-98DB717588DE",
+    "do_objectID": "8DA15D4B-0330-4E0B-B0E7-A36203176897",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -141,7 +171,8 @@
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 41,
           "minimumLineHeight": 41
-        }
+        },
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },
