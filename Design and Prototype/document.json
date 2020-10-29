@@ -39,6 +39,26 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "05FC618E-F13A-4467-BDE1-C612D631EE0F",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-SemiboldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-SemiboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "0C238311-4896-4595-95EF-C9E315F0647D",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "1C6A86FE-709B-406F-B40E-E692712ED198",
       "fontFamilyName": "SF Pro Display",
       "fontFileName": "SF-Pro-Display-Light.otf",
@@ -99,12 +119,52 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "3B35CE1B-6192-4BB4-919A-4EBD9D6EF586",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Heavy.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "3D6D8A79-4603-44A4-8118-594024F9A5D2",
       "fontFamilyName": "SF Pro Display",
       "fontFileName": "SF-Pro-Display-HeavyItalic.otf",
       "options": 0,
       "postscriptNames": [
         "SFProDisplay-HeavyItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "43511DF7-B560-4CAE-BEEE-44D7A13797AD",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Semibold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "527B43B3-63D7-4EB2-9032-B5AB79209482",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5870F220-12C6-49A4-AB02-0F83A1AD1A99",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-BoldItalic"
       ]
     },
     {
@@ -129,12 +189,32 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "63367901-9C09-4893-A62F-B6D98016205E",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "6A1C55CE-6BB7-4684-81B9-C3154F26F12F",
       "fontFamilyName": "SF Pro Rounded",
       "fontFileName": "SF-Pro-Rounded-Semibold.otf",
       "options": 2,
       "postscriptNames": [
         "SFProRounded-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6BEBE42D-4770-4552-A17E-0538286CA7AD",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Bold"
       ]
     },
     {
@@ -155,6 +235,66 @@
       "options": 0,
       "postscriptNames": [
         "SFProDisplay-RegularItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "783D10E9-C0EB-4AB2-AC61-9CB1C9CDE818",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7EF5E879-EA33-4B40-A6E8-E92A2FE74ADA",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-HeavyItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-HeavyItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "83C2E60C-9346-4810-AC21-5F81E5B39E15",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Ultralight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Ultralight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8716D4CD-7B0B-4E4A-8AB4-F61B3B87CBE6",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "87845720-62D3-4603-8855-D978283159B9",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8D7A9394-C98B-4BB3-9F5A-BFFD0FC4E35E",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-RegularItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-RegularItalic"
       ]
     },
     {
@@ -259,6 +399,26 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "E9723EFE-32D0-4754-9DB4-814036F0930F",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-UltralightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-UltralightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E9CE5ABA-E587-4EDE-879C-3FF6DF4A9C2E",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "EF116471-635E-4AAD-9E2A-68EB4789EE9B",
       "fontFamilyName": "SF Pro Display",
       "fontFileName": "SF-Pro-Display-SemiboldItalic.otf",
@@ -285,6 +445,26 @@
       "options": 2,
       "postscriptNames": [
         "SFProRounded-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F7F297A1-5647-4E4B-9842-C243A1DE2D84",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FADFDD0C-251F-4606-A854-2E503706C84A",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Black"
       ]
     },
     {
@@ -492,7 +672,8 @@
     "version": 134
   },
   "pages": [
-    "Design"
+    "Defining User",
+    "Information Architecture"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",

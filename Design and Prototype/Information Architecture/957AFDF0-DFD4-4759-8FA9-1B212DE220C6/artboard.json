@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "e3f39f20-f44b-11ea-91f9-3b2ffca8e1f2",
+  "do_objectID": "957AFDF0-DFD4-4759-8FA9-1B212DE220C6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,49 +22,60 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1024,
+    "width": 1440,
+    "x": -336,
+    "y": -323
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "artboard",
-      "id": "35A5208B-BB1C-48D2-A3BA-34EDD659DADC"
+      "class": "text",
+      "id": "6362E993-983A-4A02-8048-CE1B59307709"
     },
     {
-      "class": "artboard",
-      "id": "EF56F8B6-00B7-4B71-B5BE-4EA205A7FBD9"
+      "class": "shapePath",
+      "id": "542AEF9D-C8B5-4E7F-B1D0-B6266BA2A0DA"
     },
     {
-      "class": "artboard",
-      "id": "9CB462E1-96C7-4B03-827E-F3E2693CDB27"
+      "class": "text",
+      "id": "E8F4BFD2-5B4D-479B-B83C-FC5FFE6EA88A"
     }
   ],
-  "name": "Design",
+  "name": "User Scenario and Stories",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -92,7 +110,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EAC33931-729A-43B4-85C4-C5D9FA5DB7BF",
+    "do_objectID": "649C1AAF-F255-4F0C-8A42-6A59858346BC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,14 +122,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
