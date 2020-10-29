@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "e3f39f20-f44b-11ea-91f9-3b2ffca8e1f2",
+  "do_objectID": "9CB462E1-96C7-4B03-827E-F3E2693CDB27",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,49 +22,80 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1024,
+    "width": 1440,
+    "x": 3268,
+    "y": 92
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "artboard",
-      "id": "35A5208B-BB1C-48D2-A3BA-34EDD659DADC"
+      "class": "text",
+      "id": "E01CD36B-7E08-442D-8DF3-FFCC35B18351"
     },
     {
-      "class": "artboard",
-      "id": "EF56F8B6-00B7-4B71-B5BE-4EA205A7FBD9"
+      "class": "text",
+      "id": "775654D1-F1CF-4952-96BD-929E0F9D3B2A"
     },
     {
-      "class": "artboard",
-      "id": "9CB462E1-96C7-4B03-827E-F3E2693CDB27"
+      "class": "shapePath",
+      "id": "0DDBCF54-7E02-4E69-904D-C4DBACB95591"
+    },
+    {
+      "class": "shapePath",
+      "id": "78E03147-6AE6-4D01-BEB5-67A398F80867"
+    },
+    {
+      "class": "text",
+      "id": "1FFFCDC0-3879-4764-AF26-FF45D20E9A4C"
+    },
+    {
+      "class": "text",
+      "id": "EC950FAF-BCB8-4F70-BDE5-85F78A6BDDA6"
+    },
+    {
+      "class": "text",
+      "id": "61317987-678A-4065-BD23-2B89500E60DC"
+    },
+    {
+      "class": "text",
+      "id": "7CDCC93A-3625-4FE3-BBFA-CDF34C341D0A"
     }
   ],
-  "name": "Design",
+  "name": "Empathy Map",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -92,7 +130,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EAC33931-729A-43B4-85C4-C5D9FA5DB7BF",
+    "do_objectID": "06141E5D-D7D9-4B2A-84AC-2AA861BE1EAD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,14 +142,9 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
-    }
-  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
