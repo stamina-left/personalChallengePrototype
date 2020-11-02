@@ -50,6 +50,38 @@
     {
       "class": "artboard",
       "id": "C79D2EBA-8078-4B49-A899-53F5CFECCFE7"
+    },
+    {
+      "class": "artboard",
+      "id": "678F04E3-6223-4311-B494-BFDA07F16B84"
+    },
+    {
+      "class": "artboard",
+      "id": "448A5427-4AB2-49A6-974B-3A5FC1057158"
+    },
+    {
+      "class": "artboard",
+      "id": "7BC011DA-72D9-4535-806A-41B822A7E033"
+    },
+    {
+      "class": "artboard",
+      "id": "22665439-FE5A-4442-AD80-7014EE60D736"
+    },
+    {
+      "class": "artboard",
+      "id": "9A976341-53B6-41DE-8202-D88EEE64AFC4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3E91726E-F09C-4525-907E-5249F2C35D61"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "257AF879-003D-4AAC-B6AC-4849F762FC7F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B59A72C3-57E6-4FBB-9902-91F691FAB838"
     }
   ],
   "name": "Information Architecture",

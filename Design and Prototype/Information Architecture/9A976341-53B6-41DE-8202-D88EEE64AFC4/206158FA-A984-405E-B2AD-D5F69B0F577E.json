@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "206158FA-A984-405E-B2AD-D5F69B0F577E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 390,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bars/Navigation Bar/iPhone - Compact/Dark/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A132A723-3E84-44A4-89D9-A7DD02C6A14E_stringValue",
+      "value": "Nasi Campur"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BFA54152-C9C7-4569-8409-287A25E88B35_symbolID",
+      "value": "2A1AC2B2-AE14-487F-9B4B-E3D5A38A7248"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BFA54152-C9C7-4569-8409-287A25E88B35/57409966-6A04-4530-B0BC-576314AB211A/C775C125-1F6B-4B13-AD74-6234E85A5421_stringValue",
+      "value": "􀋂"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BFA54152-C9C7-4569-8409-287A25E88B35/B2AD7828-3F4B-46ED-8B3A-088AF40F88CD/C775C125-1F6B-4B13-AD74-6234E85A5421_stringValue",
+      "value": "􀌆"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "84221401-0B44-40C7-8A1F-169816A943BC/50363C18-2EC0-43D3-85D7-68E7E7D01B54_stringValue",
+      "value": "Back"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "67E300DA-E79C-42AF-88B6-DA2342C158F7",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0EC0BAAA-E4EF-43F1-AF5A-B1FC5633818F",
+  "verticalSpacing": 0
+}
