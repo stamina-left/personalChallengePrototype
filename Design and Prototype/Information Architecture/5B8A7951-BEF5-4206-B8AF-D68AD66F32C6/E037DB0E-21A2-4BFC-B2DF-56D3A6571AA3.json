@@ -59,11 +59,11 @@
             "minimumLineHeight": 41
           }
         },
-        "length": 583,
+        "length": 577,
         "location": 8
       }
     ],
-    "string": "Features\n\nAs a newbie cook, I want to make sure to follow each step correctly so that I can be able to replicate the taste, texture, and presentation of the food.\n\nFeature: Recipe Organizer\n\nAs a person who can't recognize what's wrong with my cookings, I want to know what went wrong when I cook so I can make edible food in future cooking.\n\nFeature: Feedback\n\nAs a person who can't adjust my cooking, I want to know how to be able to recognize if an ingredient's flavor profile has changed so I can meet the chef's expectation regarding flavor profile and texture.\n\nFeature: Flavor Profile"
+    "string": "Features\n\nAs a newbie cook, I want to make sure to follow each step correctly so that I can be able to replicate the taste, texture, and presentation of the food.\n\nFeature: Recipe Organizer\n\nAs a person who can't recognize what's wrong with my cookings, I want to know what went wrong when I cook so I can make edible food in future cooking.\n\nFeature: Feedback and Flavor Profile\n\nAs a person who can't adjust my cooking, I want to know how to be able to recognize if an ingredient's flavor profile has changed so I can meet the chef's expectation regarding flavor profile and texture."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -82,12 +82,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 738,
+    "height": 656,
     "width": 1072,
     "x": 184,
-    "y": 151
+    "y": 192
   },
-  "glyphBounds": "{{0, 9}, {1065, 722}}",
+  "glyphBounds": "{{0, 9}, {1065, 646}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
